@@ -75,7 +75,3 @@ Built using **Dash**, this app includes:
 **Anshika Dubey**  
 B.Tech CSE (Data Science), SRMCEM  
 [LinkedIn](https://www.linkedin.com/in/anshika-dubey-3a89b5287/) | [GitHub](https://github.com/Anshika-Dubey)
-
-## 🪪 License
-
-📄 *This project is licensed under the MIT License.*
